@@ -1,0 +1,11 @@
+# Documentos del curso (material del profesor / de terceros — no publicar)
+*.pdf
+
+# Documento técnico con credenciales (entrega privada al profesor)
+*.docx
+
+# Respaldos y temporales
+*backup*
+*.tmp
+~$*
+capturas-repo/
